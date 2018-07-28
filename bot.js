@@ -26,7 +26,7 @@ const sql = require("sqlite");
 
 //سنحتاج كل هده التعريفات الان و لاحقا//
 
-const prefix = "!"
+const prefix = "*"
 client.on('message', async msg => { 
 	if (msg.author.bot) return undefined;
 	if (!msg.content.startsWith(prefix)) return undefined;
