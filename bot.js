@@ -275,6 +275,6 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => {
-	client.channels.get("ايدي الروم اللي تبي تثبت البوت فيه").join();
+	client.channels.get("462960088978554880").join();
 	});
-client.login("توكن");
+client.login(process.env.BOT_TOKEN);
