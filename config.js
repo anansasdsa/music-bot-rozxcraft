@@ -1,5 +1,5 @@
-exports.TOKEN = 'NDcyMzgyNzUwMTYzNDY4MzA4.Dl5B-w.w9i-oHqixtT66hQ5vAV3oXfs3hs';
+exports.TOKEN = 'NTIxNDA0MDg4Njg0OTA0NDY4.DvAEMg.4XVkf5iB2A9wRQBHCPxEU8qpqc4';
 
-exports.PREFIX = '*';
+exports.PREFIX = '$';
 
 exports.GOOGLE_API_KEY = 'AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8';//لا تجيه
