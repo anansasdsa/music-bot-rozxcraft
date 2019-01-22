@@ -13,4 +13,4 @@ bot.start(client, {//Elmusaui_GK + Narox
 
 
 
-client.login('NTM2OTY1MzA4OTU5ODE3NzM4.DyeemA.LHbU3Y9T4W5-ob-5pt-gD_eFftE');
+client.login(procces.env.BOT_TOKEN);
